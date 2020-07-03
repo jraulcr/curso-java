@@ -15,6 +15,7 @@ factoryConfiguration.json
 
 # Log file
 *.log
+*.txt
 
 # BlueJ files
 *.ctxt
@@ -37,5 +38,5 @@ hs_err_pid*
 ### Java-Web ###
 ## ignoring target file
 target/
-
+RemoteSystemsTempFiles/
 # End of https://www.toptal.com/developers/gitignore/api/java,java-web,code-java

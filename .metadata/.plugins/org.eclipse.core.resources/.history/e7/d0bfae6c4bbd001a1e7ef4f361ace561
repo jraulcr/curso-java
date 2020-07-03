@@ -1,0 +1,11 @@
+
+public class CalculosConMath {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		int raiz = Math.sqrt(9.8);
+		
+	}
+
+}
