@@ -1,10 +1,11 @@
 package ejercicio4;
-
+/**
+ * @author Juan Raul Crespo
+ *
+ */
 import java.util.Scanner;
 
 public class TablaMultiplicar {
-
-	static Scanner entrada;
 
 	public static void main(String[] args) {
 
@@ -12,7 +13,7 @@ public class TablaMultiplicar {
 
 		int resultado;
 		
-		entrada=new Scanner(System.in);
+		Scanner entrada = new Scanner(System.in);
 
 		System.out.println("Introduce un número: ");
 

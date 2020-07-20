@@ -1,14 +1,15 @@
 package ejercicio2;
-
+/**
+ * @author Juan Raúl Crespo
+ *
+ */
 import java.util.Scanner;
 
 public class NotaAlumno {
 
-	static Scanner entrada;
-
 	public static void main(String[] args) {
 
-		entrada = new Scanner(System.in);
+		Scanner entrada = new Scanner(System.in);
 
 		String nombreAlumno;
 		double evaluacion1;

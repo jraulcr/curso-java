@@ -1,14 +1,15 @@
 package ejercicio3;
-
+/**
+ * @author Juan Raul Crespo
+ *
+ */
 import java.util.Scanner;
 
 public class Sueldo {
 
-	static Scanner entrada;
-
 	public static void main(String[] args) {
 
-		entrada = new Scanner(System.in);
+		Scanner entrada = new Scanner(System.in);
 
 		int horas;
 		int sueldo;

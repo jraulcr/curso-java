@@ -1,5 +1,8 @@
 package ejercicio1;
-
+/**
+ * @author Juan Raul Crespo
+ *
+ */
 public class DeclaracionesOperaciones {
 
 	public static void main(String[] args) {
