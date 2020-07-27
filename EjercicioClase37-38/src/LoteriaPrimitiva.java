@@ -4,6 +4,10 @@ import java.util.ArrayList;
 /**
  * @author Juan Raúl Crespo
  *
+ *
+ *
+ *Números de la série: 7 15 48 35 18 37 
+Complementario: 23
  */
 public class LoteriaPrimitiva {
 
@@ -12,7 +16,7 @@ public class LoteriaPrimitiva {
 	 */
 	public static void main(String[] args) {
 
-		ArrayList<Integer> numLoteria = new ArrayList<Integer>();
+		ArrayList<Integer> numLoteria = new ArrayList<>();
 
 		int numero = 0;
 		while (numero < 8) {

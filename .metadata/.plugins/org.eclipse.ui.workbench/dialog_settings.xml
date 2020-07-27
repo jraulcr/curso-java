@@ -27,6 +27,7 @@
 		<item key="WizardZipFileResourceExportPage1.STORE_CREATE_STRUCTURE_ID" value="true"/>
 		<item key="WizardZipFileResourceExportPage1.STORE_COMPRESS_CONTENTS_ID" value="true"/>
 		<list key="WizardZipFileResourceExportPage1.STORE_DESTINATION_NAMES_ID">
+			<item value="C:\workspace\JRaulCrespo-EjercicioClase42-43.zip"/>
 			<item value="C:\workspace\JRaulCrespo-EjercicioClase41.zip"/>
 			<item value="C:\workspace\JRaulCrespo-EjercicioClase37-38.zip"/>
 			<item value="C:\workspace\JRaulCrespo-EjercicioClase34.zip"/>
