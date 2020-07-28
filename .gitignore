@@ -8,6 +8,8 @@
 .project
 .classpath
 factoryConfiguration.json
+.sonarlint
+.metadata
 
 ### Java ###
 # Compiled class file
